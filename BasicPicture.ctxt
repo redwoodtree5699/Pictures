@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=BasicPicture(java.lang.String)
+comment1.params=pic
+comment1.target=BasicPicture(java.awt.image.BufferedImage)
+comment2.params=
+comment2.target=void\ picSettings()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=
+comment4.target=int\ getHeight()
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ getImage()
+comment6.params=fileName
+comment6.target=void\ loadOrFail(java.lang.String)
+comment7.params=fileName
+comment7.target=void\ load(java.lang.String)
+numComments=8

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=ImageDisplay(java.lang.String)
+comment1.params=pic
+comment1.target=ImageDisplay(java.awt.image.BufferedImage)
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ getBImage()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=windowEvent
+comment4.target=void\ windowClosing(java.awt.event.WindowEvent)
+numComments=5
